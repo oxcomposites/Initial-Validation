@@ -11,3 +11,7 @@ The first test to ensure proper understanding of the manufacturing process of th
 1. A respirator and googles worn throughout.
 2. Latex gloves worn from start to end of cleanup.
 3. All curing done away from living space.
+
+
+# Improvements Needed
+1. Better workspace for layup, a flat large surface required due to fraying of the sheet
