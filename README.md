@@ -18,4 +18,4 @@ These provisions are not strictly necessary (except the gloves) for the XCR Resi
 # Improvements Needed
 1. Better workspace for layup, a flat large surface required due to fraying of the sheet.
 2. Sealed box to allow curing in living space.
-3. Disposal: Need to dispose of items in a more organised manner throughout the process.
+3. Disposal: Need to dispose of items in a more organised manner throughout the process in a specific bag or equivalent.
