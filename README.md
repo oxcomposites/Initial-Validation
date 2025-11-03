@@ -5,7 +5,8 @@ The first test to ensure proper understanding of the manufacturing process of th
 1. Print: 15% infill PETG with small amount of sanding.
 2. Release Agent: PVA release agent applied. It was over-applied and due to timings was left for 1 week.
 3. Wet layup: 10g of resin for 3g of hardnener was used, it was mixed too roughly introducing air bubbles, a kitchen scales was used with limited accuracy. The carbon fiber was far more prone to fraying and imperfection than anticipated and requires the utmost delicacey and possible adhesive spray. The fibres cut far easier than anticipated.
-4. Initial cure: Left for approximately 18 hours in my boiler room (quite a damp and cool environment) and was tacky so moved into my living room for final curing.
+4. Initial cure: Left for approximately 18 hours in my boiler room (quite a damp and cool environment) and was tacky so moved into my living room for final curing. After 24 hours it was fully cured.
+5. Mould Removal: The part came out easily with no visible damage to the mould, the mould release appeared to be key. Making wedges would make this easier.
 
 # Safety
 1. A respirator and googles worn throughout.
@@ -19,3 +20,4 @@ These provisions are not strictly necessary (except the gloves) for the XCR Resi
 1. Better workspace for layup, a flat large surface required due to fraying of the sheet.
 2. Sealed box to allow curing in living space.
 3. Disposal: Need to dispose of items in a more organised manner throughout the process in a specific bag or equivalent.
+4. Make some mould release wedges on a 3D printer
