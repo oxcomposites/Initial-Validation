@@ -7,6 +7,7 @@ The first test to ensure proper understanding of the manufacturing process of th
 3. Wet layup: 10g of resin for 3g of hardnener was used, it was mixed too roughly introducing air bubbles, a kitchen scales was used with limited accuracy. The carbon fiber was far more prone to fraying and imperfection than anticipated and requires the utmost delicacey and possible adhesive spray. The fibres cut far easier than anticipated.
 4. Initial cure: Left for approximately 18 hours in my boiler room (quite a damp and cool environment) and was tacky so moved into my living room for final curing. After 24 hours it was fully cured.
 5. Mould Removal: The part came out easily with no visible damage to the mould, the mould release appeared to be key. Making wedges would make this easier.
+6. Trim: Proved very difficult to get a good finish with the dremmel cutting tool without a proper workbench
 
 # Safety
 1. A respirator and googles worn throughout.
